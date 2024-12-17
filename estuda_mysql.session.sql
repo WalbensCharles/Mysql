@@ -15,5 +15,5 @@ nacionalidade varchar(20)
 show tables;
 describe pessoas;
 
-
+drop database cadastro;
 
